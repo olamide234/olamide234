@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Olamide Tofade, a software engineer based in Lagos, Nigeria.
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a very good singing voice and yeah, I record a lot of covers of songs I like... 
+- ⚡ Fun fact: I am quite an explorer and yeah i enjoy sightseeing with outdoor games
 
 <p>I have worked with quite a number of tools and technologies which includes:</p>
 
