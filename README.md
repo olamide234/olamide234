@@ -22,9 +22,10 @@ I'm Olamide Tofade, a software engineer based in Lagos, Nigeria.
 
 <p>I have worked with quite a number of tools and technologies which includes:</p>
 
+- <strong>Javascript:</strong> React, Next.js 
 - <strong>Python framework:</strong> Django 
 - <strong>DATABASE:</strong> MysSQL, Postgresql
-- <strong>CSS:</strong> CSS3
+- <strong>CSS:</strong> CSS3, TailwindCSS
 
 
 ### Contact Me
