@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr/>
-I'm Olamide Tofade, a software engineer based in Lagos, Nigeria.
+I'm Olamide Tofade, a passionate, result-driven software engineer with vast knowledge and skill in JavaScript. I'm based in Lagos, Nigeria.
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am quite an explorer and yeah i enjoy sightseeing with outdoor games
@@ -23,9 +23,11 @@ I'm Olamide Tofade, a software engineer based in Lagos, Nigeria.
 <p>I have worked with quite a number of tools and technologies which includes:</p>
 
 - <strong>Javascript:</strong> React, Next.js 
+- <strong>CSS:</strong> CSS3, TailwindCSS, Material UI
+- <strong>API QUERY:</strong> React Query, Redux toolkit
 - <strong>Python framework:</strong> Django 
 - <strong>DATABASE:</strong> MysSQL, Postgresql
-- <strong>CSS:</strong> CSS3, TailwindCSS
+
 
 
 ### Contact Me
