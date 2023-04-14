@@ -24,7 +24,7 @@ I'm Olamide Tofade, a passionate, result-driven software engineer with vast know
 
 - <strong>Javascript:</strong> React, Next.js 
 - <strong>CSS:</strong> CSS3, TailwindCSS, Material UI
-- <strong>API QUERY:</strong> React Query, Redux toolkit
+- <strong>API QUERY AND STATE MANAGEMENT:</strong> React Query, Redux toolkit, Recoil.js
 - <strong>Python framework:</strong> Django 
 - <strong>DATABASE:</strong> MysSQL, Postgresql
 
