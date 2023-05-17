@@ -22,7 +22,8 @@ I'm Olamide Tofade, a passionate, result-driven software engineer with vast know
 
 <p>I have worked with quite a number of tools and technologies which includes:</p>
 
-- <strong>Javascript:</strong> React, Next.js 
+- <strong>Javascript:</strong> React, Next.js,Vue.js
+- <strong>Typescript</strong>
 - <strong>CSS:</strong> CSS3, TailwindCSS, Material UI
 - <strong>API QUERY AND STATE MANAGEMENT:</strong> React Query, Redux toolkit, Recoil.js
 - <strong>Python framework:</strong> Django 
