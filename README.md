@@ -36,5 +36,4 @@ I'm Olamide Tofade, a passionate, result-driven software engineer with vast know
 
 - 📞 +2349037596854
 - 📧 tofade.olamide2@gmail.com@gmail.com
-- 💬 https://wa.me/2349037596854
 - ＠ https://twitter.com/olamide_tofade
